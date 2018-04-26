@@ -1,0 +1,22 @@
+{
+  "name": "notable",
+  "version": "1.0.0",
+  "description": "This is an open table that aint good.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimstar/notable.git"
+  },
+  "author": "Kyle R Magee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dimstar/notable/issues"
+  },
+  "homepage": "https://github.com/dimstar/notable#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
