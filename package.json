@@ -17,6 +17,11 @@
   },
   "homepage": "https://github.com/dimstar/notable#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "firebase": "^4.13.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.3"
   }
 }
